@@ -13,9 +13,9 @@ go run main.go <your text>
 
 ## Examples
 ```bash
---------------------
 ./check-ascii twitch.tv
 
+--------------------
 Started   : Mon, 23 Dec 2024 17:14:44 +03
 Your input: twitch.tv
 Output    : twitch.tv
